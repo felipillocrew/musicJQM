@@ -1,0 +1,1487 @@
+03/07/2012 12:25:49 PM  Beat It --> Array
+03/07/2012 12:25:49 PM  18 Beat It.mp3 ya esta en la base de datos
+03/07/2012 12:25:49 PM  Su Hija Me Gusta --> Array
+03/07/2012 12:25:49 PM  Farruko Ft Jose Feliciano - Su Hija Me Gusta.mp3 ya esta en la base de datos
+03/07/2012 12:25:49 PM  Suavemente --> Array
+03/07/2012 12:25:49 PM  Suavemente.mp3 ya esta en la base de datos
+03/07/2012 12:25:49 PM  Carolina --> Array
+03/07/2012 12:25:49 PM  03 Carolina.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  Crazy --> Array
+03/07/2012 12:25:50 PM  Crazy.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  I Get Money-hiphopdons.com --> Array
+03/07/2012 12:25:50 PM  02 I Get Money.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  Este es mi Rap --> Array
+03/07/2012 12:25:50 PM  Porta - este es mi rap.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  Thriller --> Array
+03/07/2012 12:25:50 PM  Thriller.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  no se creo la imagen
+03/07/2012 12:25:50 PM  Demasiado Ñiña --> Array
+03/07/2012 12:25:50 PM  06 Demasiado nina.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  Una fan enamorada ( balada) --> Array
+03/07/2012 12:25:50 PM  11 Una fan enamorada ( balada).mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  Como Hago --> Array
+03/07/2012 12:25:50 PM  14 Como Hago.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  La Quiero a Morir --> Array
+03/07/2012 12:25:50 PM  La Quiero a Morir.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  Me Mata --> Array
+03/07/2012 12:25:50 PM  05 Me Mata.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  Tu Dices Que Me Amas --> Array
+03/07/2012 12:25:50 PM  01-amadis-tu_dices_que_me_amas-rdx.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  Me Love --> Array
+03/07/2012 12:25:50 PM  01 Me Love.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  Stand By Me --> Array
+03/07/2012 12:25:50 PM  Prince_Royce_-_Stand_By_Me.mp3 ya esta en la base de datos
+03/07/2012 12:25:50 PM  You\'re Beautiful --> Array
+03/07/2012 12:25:50 PM  You_are_Beautiful.mp3 ya esta en la base de datos
+03/07/2012 12:25:51 PM  Tempted to touch --> Array
+03/07/2012 12:25:51 PM  05 Tempted to touch.mp3 ya esta en la base de datos
+03/07/2012 12:25:51 PM  Amor de bandidos --> Array
+03/07/2012 12:25:51 PM  Dubosky_-_Amor_de_Bandidos.mp3 ya esta en la base de datos
+03/07/2012 12:25:51 PM  Dry Your Eyes --> Array
+03/07/2012 12:25:51 PM  06 Dry Your Eyes.mp3 ya esta en la base de datos
+03/07/2012 12:25:51 PM  Michael Jackson - Billy Jean --> Array
+03/07/2012 12:25:51 PM  06  Billy Jean.mp3 ya esta en la base de datos
+03/07/2012 12:25:51 PM  no se creo la imagen
+03/07/2012 12:25:51 PM  300 Shots --> Array
+03/07/2012 12:25:51 PM  09 300 Shots.mp3 ya esta en la base de datos
+03/07/2012 12:25:51 PM  Disco Inferno --> Array
+03/07/2012 12:25:51 PM  13 Disco Inferno.mp3 ya esta en la base de datos
+03/07/2012 12:25:51 PM  Yesterday --> Array
+03/07/2012 12:25:51 PM  Yesterday.mp3 ya esta en la base de datos
+03/07/2012 12:25:51 PM  no se creo la imagen
+03/07/2012 12:25:51 PM  Beautiful Girls (prod. by Jona --> Array
+03/07/2012 12:25:51 PM  Beautiful Girls.mp3 ya esta en la base de datos
+03/07/2012 12:25:51 PM  Take You There --> Array
+03/07/2012 12:25:51 PM  03 Take You There.mp3 ya esta en la base de datos
+03/07/2012 03:50:01 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+03/07/2012 03:51:27 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+03/07/2012 03:51:35 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+03/07/2012 03:52:29 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+03/07/2012 03:56:16 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 6
+            [titulo] => La Quiero a Morir
+            [imagen] => 
+            [artista] => Sergio Vargas
+            [album] => La Quiero a Morir
+            [fecha] => 1986
+            [genero] => Merengue
+            [tiempo] => 07:55:00
+            [link] => mp3/La Quiero a Morir.mp3
+        )
+
+)
+
+03/07/2012 03:58:18 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 6
+            [titulo] => La Quiero a Morir
+            [imagen] => 
+            [artista] => Sergio Vargas
+            [album] => La Quiero a Morir
+            [fecha] => 1986
+            [genero] => Merengue
+            [tiempo] => 07:55:00
+            [link] => mp3/La Quiero a Morir.mp3
+        )
+
+)
+
+03/07/2012 03:58:53 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 5
+            [titulo] => Este es mi Rap
+            [imagen] => 
+            [artista] => Porta
+            [album] => No es cuestión de edades
+            [fecha] => 2006
+            [genero] => Rap
+            [tiempo] => 04:03:00
+            [link] => mp3/Porta - este es mi rap.mp3
+        )
+
+)
+
+03/07/2012 03:59:10 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 5
+            [titulo] => Este es mi Rap
+            [imagen] => 
+            [artista] => Porta
+            [album] => No es cuestión de edades
+            [fecha] => 2006
+            [genero] => Rap
+            [tiempo] => 04:03:00
+            [link] => mp3/Porta - este es mi rap.mp3
+        )
+
+)
+
+03/07/2012 03:59:34 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 6
+            [titulo] => La Quiero a Morir
+            [imagen] => 
+            [artista] => Sergio Vargas
+            [album] => La Quiero a Morir
+            [fecha] => 1986
+            [genero] => Merengue
+            [tiempo] => 07:55:00
+            [link] => mp3/La Quiero a Morir.mp3
+        )
+
+)
+
+03/07/2012 04:03:14 PM  readTag: Array
+(
+)
+
+03/07/2012 04:03:23 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 6
+            [titulo] => La Quiero a Morir
+            [imagen] => 
+            [artista] => Sergio Vargas
+            [album] => La Quiero a Morir
+            [fecha] => 1986
+            [genero] => Merengue
+            [tiempo] => 07:55:00
+            [link] => mp3/La Quiero a Morir.mp3
+        )
+
+)
+
+03/07/2012 04:03:30 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+03/07/2012 04:03:33 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+05/07/2012 04:42:15 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+05/07/2012 05:04:17 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+05/07/2012 05:06:57 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+05/07/2012 05:07:02 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [titulo] => Carolina
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => Amame
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:50:00
+            [link] => mp3/03 Carolina.mp3
+        )
+
+)
+
+06/07/2012 10:31:42 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 5
+            [titulo] => Este es mi Rap
+            [imagen] => 
+            [artista] => Porta
+            [album] => No es cuestión de edades
+            [fecha] => 2006
+            [genero] => Rap
+            [tiempo] => 04:03:00
+            [link] => mp3/Porta - este es mi rap.mp3
+        )
+
+)
+
+06/07/2012 10:32:00 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 11
+            [titulo] => Amor de bandidos
+            [imagen] => 
+            [artista] => Dubosky
+            [album] => -------
+            [fecha] => 2011
+            [genero] => Reggue
+            [tiempo] => 03:47:00
+            [link] => mp3/Dubosky_-_Amor_de_Bandidos.mp3
+        )
+
+)
+
+06/07/2012 12:01:06 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+06/07/2012 12:01:09 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+06/07/2012 12:01:12 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+06/07/2012 04:27:15 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+06/07/2012 04:27:27 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+07/07/2012 05:41:29 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 20
+            [titulo] => Me Mata
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => title
+            [fecha] => 2000
+            [genero] => Other
+            [tiempo] => 03:43:00
+            [link] => mp3/05 Me Mata.mp3
+        )
+
+)
+
+07/07/2012 05:41:49 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 21
+            [titulo] => You're Beautiful
+            [imagen] => 
+            [artista] => James Blunt
+            [album] => You're Beautiful
+            [fecha] => 2009
+            [genero] => Acoustic
+            [tiempo] => 03:18:00
+            [link] => mp3/You_are_Beautiful.mp3
+        )
+
+)
+
+07/07/2012 05:41:57 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 25
+            [titulo] => Beautiful Girls (prod. by Jona
+            [imagen] => 
+            [artista] => Sean Kingston
+            [album] => battousai
+            [fecha] => 2007
+            [genero] => Rap
+            [tiempo] => 03:44:00
+            [link] => mp3/Beautiful Girls.mp3
+        )
+
+)
+
+07/07/2012 05:42:07 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 25
+            [titulo] => Beautiful Girls (prod. by Jona
+            [imagen] => 
+            [artista] => Sean Kingston
+            [album] => battousai
+            [fecha] => 2007
+            [genero] => Rap
+            [tiempo] => 03:44:00
+            [link] => mp3/Beautiful Girls.mp3
+        )
+
+)
+
+07/07/2012 05:42:17 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 25
+            [titulo] => Beautiful Girls (prod. by Jona
+            [imagen] => 
+            [artista] => Sean Kingston
+            [album] => battousai
+            [fecha] => 2007
+            [genero] => Rap
+            [tiempo] => 03:44:00
+            [link] => mp3/Beautiful Girls.mp3
+        )
+
+)
+
+07/07/2012 12:29:22 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 8
+            [titulo] => Me Love
+            [imagen] => 
+            [artista] => Sean Kingston
+            [album] => title
+            [fecha] => 2000
+            [genero] => Other
+            [tiempo] => 03:24:00
+            [link] => mp3/01 Me Love.mp3
+        )
+
+)
+
+07/07/2012 12:29:51 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 8
+            [titulo] => Me Love
+            [imagen] => 
+            [artista] => Sean Kingston
+            [album] => title
+            [fecha] => 2000
+            [genero] => Other
+            [tiempo] => 03:24:00
+            [link] => mp3/01 Me Love.mp3
+        )
+
+)
+
+07/07/2012 12:29:55 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 8
+            [titulo] => Me Love
+            [imagen] => 
+            [artista] => Sean Kingston
+            [album] => title
+            [fecha] => 2000
+            [genero] => Other
+            [tiempo] => 03:24:00
+            [link] => mp3/01 Me Love.mp3
+        )
+
+)
+
+07/07/2012 12:30:01 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 11
+            [titulo] => Amor de bandidos
+            [imagen] => 
+            [artista] => Dubosky
+            [album] => -------
+            [fecha] => 2011
+            [genero] => Reggue
+            [tiempo] => 03:47:00
+            [link] => mp3/Dubosky_-_Amor_de_Bandidos.mp3
+        )
+
+)
+
+07/07/2012 12:30:22 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 12
+            [titulo] => Michael Jackson - Billy Jean
+            [imagen] => 
+            [artista] => 80's Music
+            [album] => Smash Hits of the 80's
+            [fecha] => 2000
+            [genero] => Pop
+            [tiempo] => 04:54:00
+            [link] => mp3/06  Billy Jean.mp3
+        )
+
+)
+
+08/07/2012 12:42:16 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 5
+            [titulo] => Este es mi Rap
+            [imagen] => 
+            [artista] => Porta
+            [album] => No es cuestión de edades
+            [fecha] => 2006
+            [genero] => Rap
+            [tiempo] => 04:03:00
+            [link] => mp3/Porta - este es mi rap.mp3
+        )
+
+)
+
+08/07/2012 12:44:09 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 6
+            [titulo] => La Quiero a Morir
+            [imagen] => 
+            [artista] => Sergio Vargas
+            [album] => La Quiero a Morir
+            [fecha] => 1986
+            [genero] => Merengue
+            [tiempo] => 07:55:00
+            [link] => mp3/La Quiero a Morir.mp3
+        )
+
+)
+
+08/07/2012 12:44:33 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 7
+            [titulo] => Tu Dices Que Me Amas
+            [imagen] => 
+            [artista] => Amadis
+            [album] => Tu Dices Que Me Amas
+            [fecha] => 2010
+            [genero] => Reggae
+            [tiempo] => 03:08:00
+            [link] => mp3/01-amadis-tu_dices_que_me_amas-rdx.mp3
+        )
+
+)
+
+09/07/2012 11:26:03 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+09/07/2012 11:26:08 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+09/07/2012 12:02:04 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+09/07/2012 12:02:09 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+09/07/2012 12:02:13 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+09/07/2012 12:02:26 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+09/07/2012 12:02:30 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+09/07/2012 12:23:53 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+09/07/2012 03:55:02 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [titulo] => Crazy
+            [imagen] => 
+            [artista] => Seal
+            [album] => La Quiero a Morir
+            [fecha] => 1986
+            [genero] => Pop Americano
+            [tiempo] => 04:30:00
+            [link] => mp3/Crazy.mp3
+        )
+
+)
+
+09/07/2012 04:02:53 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+11/07/2012 10:32:40 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [titulo] => Carolina
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => Amame
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:50:00
+            [link] => mp3/03 Carolina.mp3
+        )
+
+)
+
+11/07/2012 10:34:40 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [titulo] => Carolina
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => Amame
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:50:00
+            [link] => mp3/03 Carolina.mp3
+        )
+
+)
+
+11/07/2012 10:35:10 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+18/07/2012 11:38:58 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+18/07/2012 11:39:04 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [titulo] => Carolina
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => Amame
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:50:00
+            [link] => mp3/03 Carolina.mp3
+        )
+
+)
+
+18/07/2012 11:39:28 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [titulo] => Carolina
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => Amame
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:50:00
+            [link] => mp3/03 Carolina.mp3
+        )
+
+)
+
+18/07/2012 12:06:11 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+21/07/2012 09:43:34 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+21/07/2012 09:50:50 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [titulo] => Carolina
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => Amame
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:50:00
+            [link] => mp3/03 Carolina.mp3
+        )
+
+)
+
+30/07/2012 06:11:35 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [titulo] => Carolina
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => Amame
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:50:00
+            [link] => mp3/03 Carolina.mp3
+        )
+
+)
+
+30/07/2012 06:12:11 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [titulo] => Carolina
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => Amame
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:50:00
+            [link] => mp3/03 Carolina.mp3
+        )
+
+)
+
+30/07/2012 06:12:15 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [titulo] => Carolina
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => Amame
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:50:00
+            [link] => mp3/03 Carolina.mp3
+        )
+
+)
+
+30/07/2012 06:12:21 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+30/07/2012 06:12:41 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 3
+            [titulo] => Crazy
+            [imagen] => 
+            [artista] => Seal
+            [album] => La Quiero a Morir
+            [fecha] => 1986
+            [genero] => Pop Americano
+            [tiempo] => 04:30:00
+            [link] => mp3/Crazy.mp3
+        )
+
+)
+
+30/07/2012 06:12:57 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 9
+            [titulo] => Stand By Me
+            [imagen] => 
+            [artista] => Prince Royce
+            [album] => Prince Royce
+            [fecha] => 2010
+            [genero] => Bachata
+            [tiempo] => 03:25:00
+            [link] => mp3/Prince_Royce_-_Stand_By_Me.mp3
+        )
+
+)
+
+30/07/2012 06:13:21 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 17
+            [titulo] => Demasiado Ñiña
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => battousai
+            [fecha] => 2007
+            [genero] => Merengues
+            [tiempo] => 04:30:00
+            [link] => mp3/06 Demasiado nina.mp3
+        )
+
+)
+
+30/07/2012 06:13:57 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 19
+            [titulo] => Como Hago
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => 
+            [fecha] => 
+            [genero] => Other
+            [tiempo] => 04:04:00
+            [link] => mp3/14 Como Hago.mp3
+        )
+
+)
+
+30/07/2012 06:14:17 AM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 20
+            [titulo] => Me Mata
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => title
+            [fecha] => 2000
+            [genero] => Other
+            [tiempo] => 03:43:00
+            [link] => mp3/05 Me Mata.mp3
+        )
+
+)
+
+04/08/2012 12:37:05 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 5
+            [titulo] => Este es mi Rap
+            [imagen] => 
+            [artista] => Porta
+            [album] => No es cuestión de edades
+            [fecha] => 2006
+            [genero] => Rap
+            [tiempo] => 04:03:00
+            [link] => mp3/Porta - este es mi rap.mp3
+        )
+
+)
+
+04/08/2012 12:37:33 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 5
+            [titulo] => Este es mi Rap
+            [imagen] => 
+            [artista] => Porta
+            [album] => No es cuestión de edades
+            [fecha] => 2006
+            [genero] => Rap
+            [tiempo] => 04:03:00
+            [link] => mp3/Porta - este es mi rap.mp3
+        )
+
+)
+
+04/08/2012 12:37:38 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 5
+            [titulo] => Este es mi Rap
+            [imagen] => 
+            [artista] => Porta
+            [album] => No es cuestión de edades
+            [fecha] => 2006
+            [genero] => Rap
+            [tiempo] => 04:03:00
+            [link] => mp3/Porta - este es mi rap.mp3
+        )
+
+)
+
+04/08/2012 01:12:10 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 20
+            [titulo] => Me Mata
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => title
+            [fecha] => 2000
+            [genero] => Other
+            [tiempo] => 03:43:00
+            [link] => mp3/05 Me Mata.mp3
+        )
+
+)
+
+04/08/2012 01:12:25 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 24
+            [titulo] => Disco Inferno
+            [imagen] => 
+            [artista] => 50 Cent
+            [album] => The Massacre
+            [fecha] => 2005
+            [genero] => Rap
+            [tiempo] => 03:34:00
+            [link] => mp3/13 Disco Inferno.mp3
+        )
+
+)
+
+04/08/2012 01:12:33 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 25
+            [titulo] => Beautiful Girls (prod. by Jona
+            [imagen] => 
+            [artista] => Sean Kingston
+            [album] => battousai
+            [fecha] => 2007
+            [genero] => Rap
+            [tiempo] => 03:44:00
+            [link] => mp3/Beautiful Girls.mp3
+        )
+
+)
+
+04/08/2012 01:13:38 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 20
+            [titulo] => Me Mata
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => title
+            [fecha] => 2000
+            [genero] => Other
+            [tiempo] => 03:43:00
+            [link] => mp3/05 Me Mata.mp3
+        )
+
+)
+
+04/08/2012 01:15:51 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 21
+            [titulo] => You're Beautiful
+            [imagen] => 
+            [artista] => James Blunt
+            [album] => You're Beautiful
+            [fecha] => 2009
+            [genero] => Acoustic
+            [tiempo] => 03:18:00
+            [link] => mp3/You_are_Beautiful.mp3
+        )
+
+)
+
+04/08/2012 09:14:22 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+04/08/2012 09:15:22 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 4
+            [titulo] => I Get Money-hiphopdons.com
+            [imagen] => 
+            [artista] => 50 Cent
+            [album] => Tu Dices Que Me Amas
+            [fecha] => 2010
+            [genero] => Other
+            [tiempo] => 03:46:00
+            [link] => mp3/02 I Get Money.mp3
+        )
+
+)
+
+05/08/2012 12:21:35 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 15
+            [titulo] => Su Hija Me Gusta
+            [imagen] => 
+            [artista] => Farruko Ft Jose Feliciano
+            [album] => El Talento Del Bloque
+            [fecha] => 2010
+            [genero] => Balada
+            [tiempo] => 04:56:00
+            [link] => mp3/Farruko Ft Jose Feliciano - Su Hija Me Gusta.mp3
+        )
+
+)
+
+05/08/2012 12:21:56 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 15
+            [titulo] => Su Hija Me Gusta
+            [imagen] => 
+            [artista] => Farruko Ft Jose Feliciano
+            [album] => El Talento Del Bloque
+            [fecha] => 2010
+            [genero] => Balada
+            [tiempo] => 04:56:00
+            [link] => mp3/Farruko Ft Jose Feliciano - Su Hija Me Gusta.mp3
+        )
+
+)
+
+05/08/2012 12:22:23 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 15
+            [titulo] => Su Hija Me Gusta
+            [imagen] => 
+            [artista] => Farruko Ft Jose Feliciano
+            [album] => El Talento Del Bloque
+            [fecha] => 2010
+            [genero] => Balada
+            [tiempo] => 04:56:00
+            [link] => mp3/Farruko Ft Jose Feliciano - Su Hija Me Gusta.mp3
+        )
+
+)
+
+07/08/2012 10:29:25 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+07/08/2012 10:30:24 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 17
+            [titulo] => Demasiado Ñiña
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => battousai
+            [fecha] => 2007
+            [genero] => Merengues
+            [tiempo] => 04:30:00
+            [link] => mp3/06 Demasiado nina.mp3
+        )
+
+)
+
+07/08/2012 10:32:17 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 19
+            [titulo] => Como Hago
+            [imagen] => 
+            [artista] => Eddy Herrera
+            [album] => 
+            [fecha] => 
+            [genero] => Other
+            [tiempo] => 04:04:00
+            [link] => mp3/14 Como Hago.mp3
+        )
+
+)
+
+08/08/2012 07:16:50 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+08/08/2012 07:17:14 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+08/08/2012 07:17:16 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+
+08/08/2012 07:17:45 PM  readTag: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [titulo] => Suavemente
+            [imagen] => 
+            [artista] => Elvis Crespo
+            [album] => Suavemente
+            [fecha] => 1998
+            [genero] => Merengue
+            [tiempo] => 04:29:00
+            [link] => mp3/Suavemente.mp3
+        )
+
+)
+

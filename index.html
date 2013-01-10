@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+		<title>Felipillocrew's Music</title> 
+		<meta name="viewport" content="width=device-width, initial-scale=1"> 
+        <link rel="stylesheet" href="css/jquery.mobile-1.1.0.min.css" />
+		<link rel="stylesheet" href="css/style.css" />
+        <script src="js/jquery-1.7.2.min.js"></script>
+        <script src="js/jquery.mobile-1.1.0.min.js"></script>
+	</head> 
+	<body> 	
+
+		<div id="MusicListPage" data-role="page" >
+
+			<div data-role="header" data-position="fixed">
+				<div class="logo"></div>
+			</div>
+			<div id="msgbox" class="ui-loader ui-corner-all ui-body-b ui-loader-verbose">
+				<!--<span class="ui-icon ui-icon-loading"></span>-->
+				<h1 id="msgtext"></h1>
+			</div>
+
+			<div data-role="content">
+				<ul id="musicaLista" data-role="listview" data-filter="true"></ul>
+			</div>		
+		</div>
+		<script src="js/musicalist.js"></script>
+		<script src="js/songdetails.js"></script>
+		<script src="js/editdetails.js"></script>
+	</body>
+</html>

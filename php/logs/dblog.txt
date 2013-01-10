@@ -1,0 +1,338 @@
+03/07/2012 12:25:49 PM Query --> select cancionid from cancion where systemname='18 Beat It.mp3'; 
+03/07/2012 12:25:49 PM 
+03/07/2012 12:25:49 PM Query --> select cancionid from cancion where systemname='Farruko Ft Jose Feliciano - Su Hija Me Gusta.mp3'; 
+03/07/2012 12:25:49 PM 
+03/07/2012 12:25:49 PM Query --> select cancionid from cancion where systemname='Suavemente.mp3'; 
+03/07/2012 12:25:49 PM 
+03/07/2012 12:25:49 PM Query --> select cancionid from cancion where systemname='03 Carolina.mp3'; 
+03/07/2012 12:25:49 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='Crazy.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='02 I Get Money.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='Porta - este es mi rap.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='Thriller.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='06 Demasiado nina.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='11 Una fan enamorada ( balada).mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='14 Como Hago.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='La Quiero a Morir.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='05 Me Mata.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='01-amadis-tu_dices_que_me_amas-rdx.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='01 Me Love.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='Prince_Royce_-_Stand_By_Me.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:50 PM Query --> select cancionid from cancion where systemname='You_are_Beautiful.mp3'; 
+03/07/2012 12:25:50 PM 
+03/07/2012 12:25:51 PM Query --> select cancionid from cancion where systemname='05 Tempted to touch.mp3'; 
+03/07/2012 12:25:51 PM 
+03/07/2012 12:25:51 PM Query --> select cancionid from cancion where systemname='Dubosky_-_Amor_de_Bandidos.mp3'; 
+03/07/2012 12:25:51 PM 
+03/07/2012 12:25:51 PM Query --> select cancionid from cancion where systemname='06 Dry Your Eyes.mp3'; 
+03/07/2012 12:25:51 PM 
+03/07/2012 12:25:51 PM Query --> select cancionid from cancion where systemname='06  Billy Jean.mp3'; 
+03/07/2012 12:25:51 PM 
+03/07/2012 12:25:51 PM Query --> select cancionid from cancion where systemname='09 300 Shots.mp3'; 
+03/07/2012 12:25:51 PM 
+03/07/2012 12:25:51 PM Query --> select cancionid from cancion where systemname='13 Disco Inferno.mp3'; 
+03/07/2012 12:25:51 PM 
+03/07/2012 12:25:51 PM Query --> select cancionid from cancion where systemname='Yesterday.mp3'; 
+03/07/2012 12:25:51 PM 
+03/07/2012 12:25:51 PM Query --> select cancionid from cancion where systemname='Beautiful Girls.mp3'; 
+03/07/2012 12:25:51 PM 
+03/07/2012 12:25:51 PM Query --> select cancionid from cancion where systemname='03 Take You There.mp3'; 
+03/07/2012 12:25:51 PM 
+03/07/2012 03:12:40 PM Query --> select c.cancionid as id,c.nombre as titulo,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:12:40 PM 
+03/07/2012 03:13:02 PM Query --> select c.cancionid as id,c.nombre as titulo,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:13:02 PM 
+03/07/2012 03:16:04 PM Query --> select c.cancionid as id,c.nombre as titulo,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:16:04 PM 
+03/07/2012 03:26:15 PM Query --> select c.cancionid as id,c.nombre as titulo,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:26:15 PM 
+03/07/2012 03:26:43 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:26:43 PM 
+03/07/2012 03:27:30 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:27:30 PM 
+03/07/2012 03:28:34 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:28:34 PM 
+03/07/2012 03:42:53 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:42:53 PM 
+03/07/2012 03:42:56 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+03/07/2012 03:42:56 PM 
+03/07/2012 03:43:54 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+03/07/2012 03:43:54 PM 
+03/07/2012 03:50:01 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+03/07/2012 03:50:01 PM 
+03/07/2012 03:51:27 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+03/07/2012 03:51:27 PM 
+03/07/2012 03:51:33 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:51:33 PM 
+03/07/2012 03:51:35 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+03/07/2012 03:51:35 PM 
+03/07/2012 03:52:29 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+03/07/2012 03:52:29 PM 
+03/07/2012 03:56:04 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:56:04 PM 
+03/07/2012 03:56:16 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=6; 
+03/07/2012 03:56:16 PM 
+03/07/2012 03:58:18 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=6; 
+03/07/2012 03:58:18 PM 
+03/07/2012 03:58:48 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:58:48 PM 
+03/07/2012 03:58:53 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=5; 
+03/07/2012 03:58:53 PM 
+03/07/2012 03:59:05 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 03:59:05 PM 
+03/07/2012 03:59:10 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=5; 
+03/07/2012 03:59:10 PM 
+03/07/2012 03:59:34 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=6; 
+03/07/2012 03:59:34 PM 
+03/07/2012 04:03:14 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=0; 
+03/07/2012 04:03:14 PM 
+03/07/2012 04:03:23 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=6; 
+03/07/2012 04:03:23 PM 
+03/07/2012 04:03:26 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+03/07/2012 04:03:26 PM 
+03/07/2012 04:03:30 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+03/07/2012 04:03:30 PM 
+03/07/2012 04:03:33 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+03/07/2012 04:03:33 PM 
+04/07/2012 04:18:21 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+04/07/2012 04:18:21 PM 
+05/07/2012 03:16:27 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+05/07/2012 03:16:27 AM 
+05/07/2012 04:37:43 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+05/07/2012 04:37:43 PM 
+05/07/2012 04:42:15 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+05/07/2012 04:42:15 PM 
+05/07/2012 05:04:17 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+05/07/2012 05:04:17 PM 
+05/07/2012 05:06:57 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+05/07/2012 05:06:57 PM 
+05/07/2012 05:07:02 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=2; 
+05/07/2012 05:07:02 PM 
+05/07/2012 05:21:58 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+05/07/2012 05:21:58 PM 
+06/07/2012 10:30:41 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+06/07/2012 10:30:41 AM 
+06/07/2012 10:31:42 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=5; 
+06/07/2012 10:31:42 AM 
+06/07/2012 10:32:00 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=11; 
+06/07/2012 10:32:00 AM 
+06/07/2012 12:00:59 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+06/07/2012 12:00:59 PM 
+06/07/2012 12:01:06 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+06/07/2012 12:01:06 PM 
+06/07/2012 12:01:09 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+06/07/2012 12:01:09 PM 
+06/07/2012 12:01:12 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+06/07/2012 12:01:12 PM 
+06/07/2012 04:27:10 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+06/07/2012 04:27:10 PM 
+06/07/2012 04:27:15 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+06/07/2012 04:27:15 PM 
+06/07/2012 04:27:27 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+06/07/2012 04:27:27 PM 
+07/07/2012 05:41:17 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+07/07/2012 05:41:17 AM 
+07/07/2012 05:41:29 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=20; 
+07/07/2012 05:41:29 AM 
+07/07/2012 05:41:49 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=21; 
+07/07/2012 05:41:49 AM 
+07/07/2012 05:41:57 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=25; 
+07/07/2012 05:41:57 AM 
+07/07/2012 05:42:07 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=25; 
+07/07/2012 05:42:07 AM 
+07/07/2012 05:42:17 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=25; 
+07/07/2012 05:42:17 AM 
+07/07/2012 12:29:11 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+07/07/2012 12:29:11 PM 
+07/07/2012 12:29:22 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=8; 
+07/07/2012 12:29:22 PM 
+07/07/2012 12:29:51 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=8; 
+07/07/2012 12:29:51 PM 
+07/07/2012 12:29:55 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=8; 
+07/07/2012 12:29:55 PM 
+07/07/2012 12:30:01 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=11; 
+07/07/2012 12:30:01 PM 
+07/07/2012 12:30:22 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=12; 
+07/07/2012 12:30:22 PM 
+07/07/2012 12:31:15 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+07/07/2012 12:31:15 PM 
+08/07/2012 12:42:01 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+08/07/2012 12:42:01 PM 
+08/07/2012 12:42:16 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=5; 
+08/07/2012 12:42:16 PM 
+08/07/2012 12:44:09 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=6; 
+08/07/2012 12:44:09 PM 
+08/07/2012 12:44:33 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=7; 
+08/07/2012 12:44:33 PM 
+09/07/2012 11:26:02 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 11:26:02 AM 
+09/07/2012 11:26:03 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+09/07/2012 11:26:03 AM 
+09/07/2012 11:26:08 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+09/07/2012 11:26:08 AM 
+09/07/2012 12:02:04 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+09/07/2012 12:02:04 PM 
+09/07/2012 12:02:07 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 12:02:07 PM 
+09/07/2012 12:02:09 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+09/07/2012 12:02:09 PM 
+09/07/2012 12:02:13 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+09/07/2012 12:02:13 PM 
+09/07/2012 12:02:24 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 12:02:24 PM 
+09/07/2012 12:02:26 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+09/07/2012 12:02:26 PM 
+09/07/2012 12:02:30 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+09/07/2012 12:02:30 PM 
+09/07/2012 12:23:53 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+09/07/2012 12:23:53 PM 
+09/07/2012 12:23:56 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 12:23:56 PM 
+09/07/2012 03:54:51 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 03:54:51 PM 
+09/07/2012 03:55:02 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=3; 
+09/07/2012 03:55:02 PM 
+09/07/2012 04:02:49 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 04:02:49 PM 
+09/07/2012 04:02:53 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+09/07/2012 04:02:53 PM 
+09/07/2012 04:49:08 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 04:49:08 PM 
+09/07/2012 05:08:05 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 05:08:05 PM 
+09/07/2012 05:08:16 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 05:08:16 PM 
+09/07/2012 05:35:18 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 05:35:18 PM 
+09/07/2012 05:38:21 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 05:38:21 PM 
+09/07/2012 05:38:31 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 05:38:31 PM 
+09/07/2012 05:40:22 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 05:40:22 PM 
+09/07/2012 05:42:13 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+09/07/2012 05:42:13 PM 
+11/07/2012 10:32:36 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+11/07/2012 10:32:36 AM 
+11/07/2012 10:32:40 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=2; 
+11/07/2012 10:32:40 AM 
+11/07/2012 10:34:37 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+11/07/2012 10:34:37 AM 
+11/07/2012 10:34:40 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=2; 
+11/07/2012 10:34:40 AM 
+11/07/2012 10:35:10 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+11/07/2012 10:35:10 AM 
+12/07/2012 01:32:24 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+12/07/2012 01:32:24 PM 
+18/07/2012 11:38:55 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+18/07/2012 11:38:55 AM 
+18/07/2012 11:38:58 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+18/07/2012 11:38:58 AM 
+18/07/2012 11:39:04 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=2; 
+18/07/2012 11:39:04 AM 
+18/07/2012 11:39:20 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+18/07/2012 11:39:20 AM 
+18/07/2012 11:39:28 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=2; 
+18/07/2012 11:39:28 AM 
+18/07/2012 12:06:11 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+18/07/2012 12:06:11 PM 
+18/07/2012 01:13:08 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+18/07/2012 01:13:08 PM 
+21/07/2012 09:43:27 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+21/07/2012 09:43:27 PM 
+21/07/2012 09:43:34 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+21/07/2012 09:43:34 PM 
+21/07/2012 09:50:50 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=2; 
+21/07/2012 09:50:50 PM 
+23/07/2012 03:10:45 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+23/07/2012 03:10:45 AM 
+30/07/2012 06:11:29 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+30/07/2012 06:11:29 AM 
+30/07/2012 06:11:35 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=2; 
+30/07/2012 06:11:35 AM 
+30/07/2012 06:12:10 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=2; 
+30/07/2012 06:12:10 AM 
+30/07/2012 06:12:15 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=2; 
+30/07/2012 06:12:15 AM 
+30/07/2012 06:12:21 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+30/07/2012 06:12:21 AM 
+30/07/2012 06:12:41 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=3; 
+30/07/2012 06:12:41 AM 
+30/07/2012 06:12:57 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=9; 
+30/07/2012 06:12:57 AM 
+30/07/2012 06:13:21 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=17; 
+30/07/2012 06:13:21 AM 
+30/07/2012 06:13:57 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=19; 
+30/07/2012 06:13:57 AM 
+30/07/2012 06:14:17 AM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=20; 
+30/07/2012 06:14:17 AM 
+04/08/2012 12:36:31 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+04/08/2012 12:36:31 PM 
+04/08/2012 12:37:05 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=5; 
+04/08/2012 12:37:05 PM 
+04/08/2012 12:37:33 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=5; 
+04/08/2012 12:37:33 PM 
+04/08/2012 12:37:38 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=5; 
+04/08/2012 12:37:38 PM 
+04/08/2012 01:12:10 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=20; 
+04/08/2012 01:12:10 PM 
+04/08/2012 01:12:25 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=24; 
+04/08/2012 01:12:25 PM 
+04/08/2012 01:12:33 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=25; 
+04/08/2012 01:12:33 PM 
+04/08/2012 01:13:38 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=20; 
+04/08/2012 01:13:38 PM 
+04/08/2012 01:15:51 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=21; 
+04/08/2012 01:15:51 PM 
+04/08/2012 09:14:11 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+04/08/2012 09:14:11 PM 
+04/08/2012 09:14:22 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+04/08/2012 09:14:22 PM 
+04/08/2012 09:15:16 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+04/08/2012 09:15:16 PM 
+04/08/2012 09:15:22 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=4; 
+04/08/2012 09:15:22 PM 
+04/08/2012 09:16:50 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+04/08/2012 09:16:50 PM 
+05/08/2012 12:21:27 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+05/08/2012 12:21:27 PM 
+05/08/2012 12:21:35 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=15; 
+05/08/2012 12:21:35 PM 
+05/08/2012 12:21:56 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=15; 
+05/08/2012 12:21:56 PM 
+05/08/2012 12:22:23 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=15; 
+05/08/2012 12:22:23 PM 
+07/08/2012 02:42:23 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+07/08/2012 02:42:23 PM 
+07/08/2012 10:29:17 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+07/08/2012 10:29:17 PM 
+07/08/2012 10:29:25 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+07/08/2012 10:29:25 PM 
+07/08/2012 10:30:24 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=17; 
+07/08/2012 10:30:24 PM 
+07/08/2012 10:32:17 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=19; 
+07/08/2012 10:32:17 PM 
+08/08/2012 12:07:57 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+08/08/2012 12:07:57 PM 
+08/08/2012 07:16:36 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c; 
+08/08/2012 07:16:36 PM 
+08/08/2012 07:16:50 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+08/08/2012 07:16:50 PM 
+08/08/2012 07:17:14 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+08/08/2012 07:17:14 PM 
+08/08/2012 07:17:16 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+08/08/2012 07:17:16 PM 
+08/08/2012 07:17:45 PM Query --> select c.cancionid as id,c.nombre as titulo,c.cancionart as imagen,(select nombre from artista where artistaid=c.artistaid) as artista,(select nombre from album where albumid=c.albumid) as album,(select fecha from album where albumid=c.albumid) as fecha,c.genero,c.tiempo,c.systemrute as link from cancion c where c.cancionid=1; 
+08/08/2012 07:17:45 PM 

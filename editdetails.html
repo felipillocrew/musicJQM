@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+    </head>
+    <body>
+		<div id="editPage" data-role="page" data-add-back-btn="true">
+			<div data-role="header">
+                <h1 id="title"></h1>
+				<a id="saveLink" data-icon="check" data-theme="b" class="ui-btn-right">Save</a>
+            </div>
+
+            <div data-role="content"> 
+                <form action="mp3.php" method="get" id="editSong">
+					<fieldset>
+						<input type="hidden" name="candionid" id="candionid" value=""/>
+						<input type="hidden" name="fnt" id="fnt" value="write"/>
+						<div data-role="fieldcontain" >
+							<label for="titulo" >Titulo:</label>
+							<input type="text" name="titulo" id="titulo" value="" placeholder="Titulo..." />
+						</div>
+						<div data-role="fieldcontain" >
+							<label for="artista" >Artista:</label>
+							<input type="text" name="artista" id="artista" value="" placeholder="Artista..." />
+						</div>
+						<div data-role="fieldcontain" >
+							<label for="album" >Album:</label>
+							<input type="text" name="album" id="album" value="" placeholder="Album..." />
+						</div>
+						<div data-role="fieldcontain" >
+							<label for="genero" >Genero:</label>
+							<input type="text" name="genero" id="genero" value="" placeholder="Genero..." />
+						</div>
+						<div data-role="fieldcontain" >
+							<label for="year"  >Año:</label>
+							<input type="text" name="year" id="year" value="" placeholder="Año..." />
+						</div></fieldset>
+				</form>
+				<div id="ajaxLog"></div>
+
+            </div>
+		</div>
+
+    </body>
+
+</html>
